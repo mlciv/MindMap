@@ -1,4 +1,15 @@
 # Mind Map
-This repository contains MindMap collections for various subject such as
-computer science or other reading note. And welcome to contribute to every
-cluster.
+This repository contains MindMap collections for my favorite topics mainly
+including computer science or other reading note. 
+
+## Acthitecture
+## BigData
+## C++
+## IR
+## ML
+## NLP
+## OtherReadNote
+## Recommendation
+## Web
+
+Welcome to contribute to every collection.
